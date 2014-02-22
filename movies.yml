@@ -1,0 +1,58 @@
+- name_en: Together
+  name_zh: 和你在一起
+  year: 2002
+  wikipedia_en: http://en.wikipedia.org/wiki/Together_%282002_film%29
+  wikipedia_zh: http://zh.wikipedia.org/zh/%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7
+  location: Mainland
+  imdb_id: tt0332639
+  srt_files:
+    gb:
+    - "[和你在一起].Together.2002.XviD.DTS.CD1-WAF.Chs.srt"
+    - "[和你在一起].Together.2002.XviD.DTS.CD2-WAF.Chs.srt"
+    - "[和你在一起].Together.2002.XviD.DTS.CD3-WAF.Chs.srt"
+    big5:
+    - "[和你在一起].Together.2002.DVDRip.XVid-TLF.CD1.srt"
+    - "[和你在一起].Together.2002.DVDRip.XVid-TLF.CD2.srt"
+
+- name_en: Double Vision
+  name_zh: 雙瞳
+  year: 2002
+  wikipedia_en: http://en.wikipedia.org/wiki/Double_Vision_%282002_film%29
+  wikipedia_zh: http://zh.wikipedia.org/wiki/%E9%9B%99%E7%9E%B3_(%E9%9B%BB%E5%BD%B1)
+  location: Taiwan
+  imdb_id: tt0284066
+
+- name_en: What Time is it over There?
+  name_zh: 你那邊幾點
+  year: 2001
+  wikipedia_en: http://en.wikipedia.org/wiki/What_Time_Is_It_There%3F
+  wikipedia_zh: http://zh.wikipedia.org/wiki/%E4%BD%A0%E9%82%A3%E8%BE%B9%E5%87%A0%E7%82%B9
+  location: Taiwan
+  imdb_id: tt0269746
+  srt_files:
+    big5:
+      - "[你那邊幾點][What.Time.Is.It.There.2001][蔡明亮].srt"
+
+- name_en: Millennium Mambo
+  name_zh: 千禧曼波
+  year: 2001
+  location: Taiwan
+  wikipedia_en: https://en.wikipedia.org/wiki/Millennium_Mambo
+  wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%83%E7%A6%A7%E6%9B%BC%E6%B3%A2
+  imdb_id: tt0283283
+  srt_files:
+    gb_traditional:
+      - "yiyi.cd1-postx.BIG5.srt"
+      - "yiyi.cd2-postx.BIG5.srt"
+    gb:
+      - "yiyi.cd1-postx.GB.srt"
+      - "yiyi.cd2-postx.GB.srt"
+
+- name_en: Crouching Tiger, Hidden Dragon
+  srt_files:
+    big5:
+      - "[Crouching.Tiger,.Hidden.Dragon].CD1.big5.srt"
+      - "[Crouching.Tiger,.Hidden.Dragon].CD2.big5.srt"
+    gb:
+      - "[Crouching.Tiger,.Hidden.Dragon].CD1.gb.srt"
+      - "[Crouching.Tiger,.Hidden.Dragon].CD2.gb.srt"

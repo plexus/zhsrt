@@ -18,7 +18,10 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency('rake')
   spec.add_development_dependency('rubygems-tasks')
 
+  spec.add_runtime_dependency('rmmseg')
   spec.add_runtime_dependency('analects')
+  spec.add_runtime_dependency('virtus')
+  spec.add_runtime_dependency('srt')
 
   spec.require_path = 'lib'
   spec.files        = Dir.glob('**/*.rb') + %w(README.md)
